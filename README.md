@@ -1,2 +1,2 @@
-# Exerc-cio_02_bd
+# Ex_02_bd
 Resolução do exercício 02 - Banco de Dados
