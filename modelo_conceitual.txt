@@ -1,0 +1,9 @@
+Criminoso: ID, Nome, CPF, id_crime
+
+Vítima: ID, Nome, CPF, Telefone, id_crime
+
+Crime: ID, Data, Descrição, id_arma
+
+Arma: ID, Calibre, Modelo
+
+Crimes: ID, id_criminoso, id_vitima
